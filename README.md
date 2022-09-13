@@ -12,3 +12,5 @@
 
 ৬. Add to cart কাজ করেনা।
 
+Project resource : https://github.com/mir-hussain/debugging-project-02
+
